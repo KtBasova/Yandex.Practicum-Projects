@@ -1,11 +1,11 @@
-# Analysis of data from the 'Yandex.music' service
+# Анализ данных сервиса «Яндекс.музыка»
 
-#### Research Objectives:
+#### Цель исследования:
 
-Using the Pandas library and its functionality, analyze real data from Yandex.Music to verify information and compare the behavior and musical preferences of users from two cities - Moscow and St. Petersburg.
+Проанализировать реальные данные Яндекс Музыки, проверить информацию и сравнить поведение пользователей двух столиц - Москвы и Санкт-Петербурга.
 
-#### Results of the research: 
-It was established that there are more similarities than differences between users in the two cities. User activity in Moscow and St. Petersburg varies throughout the week. Musical preferences in the two cities are similar, including the beginning and end of the week, with pop music being the most popular genre.
+#### Результаты исследования: 
+Во вкусах пользователей Москвы и Санкт-Петербурга больше общего, чем различий. День недели по-разному влияет на активность пользователей в двух городах. Музыкальные предпочтения не сильно меняются в течение недели, в начале недели в Москве слушают  “world”, в Санкт-Петербурге — джаз и классику. 
 
-#### Skills and tools: 
-Python, Pandas, data processing, duplicates, missing values, logical indexing, grouping, sorting
+#### Навыки и инструменты: 
+Python, Pandas, обработка данных, поиск дубликатов, группировка.
